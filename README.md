@@ -11,11 +11,12 @@
   <img src="https://img.shields.io/badge/Pull%20Requests-ZaheerUDin957-red?logo=github" alt="Pull Requests" />
   <img src="https://img.shields.io/badge/Issues%20Opened-ZaheerUDin957-yellow?logo=github" alt="Issues Opened" />
   <img src="https://img.shields.io/badge/Forks-ZaheerUDin957-lightgrey?logo=github" alt="Forks" />
+  <img src="https://img.shields.io/badge/Custom-Badge-red" alt="Custom Badge" />
   <a href="https://github.com/sponsors/ZaheerUDin957">
     <img src="https://img.shields.io/badge/Sponsor-ZaheerUDin957-brightgreen?logo=github-sponsors" alt="Sponsor" />
   </a>
-  <img src="https://img.shields.io/badge/Custom-Badge-red" alt="Custom Badge" />
 </p>
+
 
 
 # 📊 GitHub Stats
