@@ -13,7 +13,7 @@
     <tr>
       <td><img src="https://img.shields.io/badge/Issues%20Opened-ZaheerUDin957-yellow?logo=github" alt="Issues Opened" /></td>
       <td><img src="https://img.shields.io/badge/Forks-ZaheerUDin957-lightgrey?logo=github" alt="Forks" /></td>
-      <td><img src="https://img.shields.io/badge/Custom-Badge-red" alt="Custom Badge" /></td>
+      <td><img src="https://custom-icon-badges.herokuapp.com/badge/Contributions-ZaheerUDin957-green?logo=github" alt="Contributions" /></td>
       <td>
         <a href="https://github.com/sponsors/ZaheerUDin957">
           <img src="https://img.shields.io/badge/Sponsor-ZaheerUDin957-brightgreen?logo=github-sponsors" alt="Sponsor" />
@@ -24,7 +24,7 @@
       <td><img src="https://komarev.com/ghpvc/?username=ZaheerUDin957&color=blueviolet&style=flat-square" alt="Profile views" /></td>
       <td><img src="https://img.shields.io/github/followers/ZaheerUDin957?label=Followers&style=flat-square&color=green" alt="GitHub Followers" /></td>
       <td><img src="https://img.shields.io/github/stars/ZaheerUDin957?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" /></td>
-      <td><img src="https://custom-icon-badges.herokuapp.com/badge/Contributions-ZaheerUDin957-green?logo=github" alt="Contributions" /></td>
+      <td><img src="https://img.shields.io/badge/Custom-Badge-red" alt="Custom Badge" /></td>
     </tr>
   </table>
 </p>
