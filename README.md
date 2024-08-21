@@ -1,16 +1,16 @@
-# Zaheer UL Deen Babar
+# <span style="color:#1E90FF">Zaheer UL Deen Babar</span>
 
-**Aspiring ML Engineer | Generative AI Practitioner | NLP | Advanced Image Processing**
+**<span style="color:#FF6347">Aspiring ML Engineer | Generative AI Practitioner | NLP | Advanced Image Processing</span>**
 
-📍 Johar Town, Lahore, Punjab, Pakistan  
-📞 +923466420585  
-📧 [zaheerudin7887@gmail.com](mailto:zaheerudin7887@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/zaheer-ul-deen-650492061)  
-🔗 [GitHub](https://github.com/ZaheerUDeen7887)
+📍 <span style="color:#32CD32">Johar Town, Lahore, Punjab, Pakistan</span>  
+📞 <span style="color:#FFD700">+923466420585</span>  
+📧 <span style="color:#DAA520"><a href="mailto:zaheerudin7887@gmail.com" style="color:#DAA520">zaheerudin7887@gmail.com</a></span>  
+🔗 <span style="color:#00BFFF"><a href="https://www.linkedin.com/in/zaheer-ul-deen-650492061" style="color:#00BFFF">LinkedIn</a></span>  
+🔗 <span style="color:#00BFFF"><a href="https://github.com/ZaheerUDeen7887" style="color:#00BFFF">GitHub</a></span>
 
 ---
 
-## 🛠️ Professional Summary
+## <span style="color:#FF4500">🛠️ Professional Summary</span>
 
 I have 1.5+ years of experience as a Machine Learning Engineer with 4 months of AI training, 6+ months of internships in multiple software development firms, and 1+ year of teaching and research on advanced image processing and artificial intelligence in an academic institute. I am keenly interested in applying machine learning and deep learning models to develop efficient systems for research and development.
 
@@ -18,7 +18,7 @@ My expertise extends to working with generative AI, LangChain, LlamaIndex, Gemin
 
 ---
 
-## 💼 Professional Experience
+## <span style="color:#FF4500">💼 Professional Experience</span>
 
 **Mobile App Development Intern**  
 *XpertSpot IT Solutions*  
@@ -55,7 +55,7 @@ My expertise extends to working with generative AI, LangChain, LlamaIndex, Gemin
 
 ---
 
-## 🎓 Education
+## <span style="color:#FF4500">🎓 Education</span>
 
 **BS Software Engineering**  
 *KFUEIT*  
@@ -64,7 +64,7 @@ My expertise extends to working with generative AI, LangChain, LlamaIndex, Gemin
 
 ---
 
-## 📜 Certifications
+## <span style="color:#FF4500">📜 Certifications</span>
 
 - Artificial Intelligence - Xeven Solutions
 - Introduction to Machine Learning - IBM
@@ -76,7 +76,7 @@ My expertise extends to working with generative AI, LangChain, LlamaIndex, Gemin
 
 ---
 
-## 🛠️ Skills
+## <span style="color:#FF4500">🛠️ Skills</span>
 
 **Programming Languages:**  
 C++, Java, Python, CSS, HTML, React, React Native
@@ -89,7 +89,7 @@ VSCode, Google Colab, Kaggle, Jupyter Notebook
 
 ---
 
-## 🚀 Projects
+## <span style="color:#FF4500">🚀 Projects</span>
 
 - **Milk Adulteration Detection and Classification Using Hyperspectral Imaging**
 - **Hyperspectral Imaging for Non-Destructive Fruit Freshness Detection**
@@ -100,30 +100,29 @@ VSCode, Google Colab, Kaggle, Jupyter Notebook
 
 ---
 
-## 📫 Contact
+## <span style="color:#FF4500">📫 Contact</span>
 
 Feel free to reach out for collaboration or inquiries:
 
-📧 [zaheerudin7887@gmail.com](mailto:zaheerudin7887@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/zaheer-ul-deen-650492061)  
-🔗 [GitHub](https://github.com/ZaheerUDeen7887)
+📧 <span style="color:#DAA520"><a href="mailto:zaheerudin7887@gmail.com" style="color:#DAA520">zaheerudin7887@gmail.com</a></span>  
+🔗 <span style="color:#00BFFF"><a href="https://www.linkedin.com/in/zaheer-ul-deen-650492061" style="color:#00BFFF">LinkedIn</a></span>  
+🔗 <span style="color:#00BFFF"><a href="https://github.com/ZaheerUDeen7887" style="color:#00BFFF">GitHub</a></span>
 
 ---
 
-## 🌱 Personal Interests
+## <span style="color:#FF4500">🌱 Personal Interests</span>
 
 Beyond work, I have a passion for exploring new technologies, solving complex problems, and contributing to open-source projects. My curiosity drives me to constantly learn and improve, staying at the forefront of AI advancements.
 
 ---
 
-## 🏆 GitHub Stats
+## <span style="color:#FF4500">🏆 GitHub Stats</span>
 
 ![Zaheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaheerUDin957&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaheerUDin957&layout=compact&theme=radical)
 
 ---
 
-## 🏆 GitHub Trophies
+## <span style="color:#FF4500">🏆 GitHub Trophies</span>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ZaheerUDeen7887&theme=onedark&no-frame=true&margin-w=15)
-
