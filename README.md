@@ -1,68 +1,129 @@
-# Hi there, I'm Zaheer UL Deen Babar 👋
+# Zaheer UL Deen Babar
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zaheer-10&color=blue)
-[![Twitter Follow](https://img.shields.io/twitter/follow/twitter_handle?style=social)](https://twitter.com/twitter_handle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zaheer-10/)
-[![GitHub followers](https://img.shields.io/github/followers/Zaheer-10?style=social)](https://github.com/Zaheer-10)
-[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://yourwebsite.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://yourwebsite.com/resume.pdf)
+**Aspiring ML Engineer | Generative AI Practitioner | NLP | Advanced Image Processing**
 
-## 👨‍💻 About Me
+📍 Johar Town, Lahore, Punjab, Pakistan  
+📞 +923466420585  
+📧 [zaheerudin7887@gmail.com](mailto:zaheerudin7887@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/zaheer-ul-deen-650492061)  
+🔗 [GitHub](https://github.com/ZaheerUDeen7887)
 
-- 🔭 I’m currently working on **[Your Current Project](https://github.com/Zaheer-10/YourCurrentProject)**
-- 🌱 I’m currently learning **Advanced NLP, Generative AI, and Cybersecurity**
-- 👯 I’m looking to collaborate on **AI/ML projects**
-- 💬 Ask me about **Data Science, Machine Learning, NLP, and AI**
-- 📫 How to reach me: [Email](mailto:zaheer@example.com)
-- ⚡ Fun fact: I love exploring new technologies and solving complex problems.
+---
 
-## 🛠️ Skills & Tools
+## 🛠️ Professional Summary
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+I have 1.5+ years of experience as a Machine Learning Engineer with 4 months of AI training, 6+ months of internships in multiple software development firms, and 1+ year of teaching and research on advanced image processing and artificial intelligence in an academic institute. I am keenly interested in applying machine learning and deep learning models to develop efficient systems for research and development.
 
-## 📊 GitHub Stats
+My expertise extends to working with generative AI, LangChain, LlamaIndex, Gemini, OpenAI, and Hugging Face to build Retrieval-Augmented Generation (RAG) systems and chatbots. I bring excellent communication skills and hands-on experience in building and deploying machine learning (ML) and deep learning (DL) models, and creating interactive dashboards with compelling narratives.
 
-![Zaheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zaheer-10&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaheer-10&layout=compact&theme=radical)
+---
 
-## 🏆 GitHub Trophies
+## 💼 Professional Experience
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Zaheer-10&theme=onedark&no-frame=true&margin-w=15)
+**Mobile App Development Intern**  
+*XpertSpot IT Solutions*  
+*Jun 2022 - Aug 2022*  
+- Developed a "Digital Library" project using React Native.
+- Gained experience in a professional environment and collaborative teamwork.
+
+**SE and Data Science Intern**  
+*SunSkill Technologies*  
+*March 2023 - May 2023*  
+- Conducted financial data analysis and created interactive dashboards.
+- Developed a self-check mobile app using React Native.
+
+**Trainee - Artificial Intelligence**  
+*Xeven Solutions*  
+*May 2023 - Sep 2023*  
+- Worked on data science, machine learning (ML), deep learning (DL), and generative AI.
+- Gained hands-on experience with autoencoders and chatbots.
+
+**Teaching Assistant**  
+*KFUEIT*  
+*Sep 2023 - Jan 2024*  
+- Assisted with courses in Software Engineering, AI, image processing, and computer vision.
+
+**Instructor Artificial Intelligence**  
+*National Vocational and Technical Training Commission*  
+*Feb 2024 - Jul 2024*
+
+**Research Assistant**  
+*Advanced Image Processing Research Lab*  
+*Sep 2023 - Aug 2024*  
+- Conducted research in advanced image processing and hyperspectral imaging.
+- Led a team in various research projects.
+
+---
+
+## 🎓 Education
+
+**BS Software Engineering**  
+*KFUEIT*  
+*2020 - 2024*  
+- CGPA: 3.00/4.00
+
+---
+
+## 📜 Certifications
+
+- Artificial Intelligence - Xeven Solutions
+- Introduction to Machine Learning - IBM
+- Machine Learning Specialization - Stanford University
+- Mathematics for Machine Learning - DeepLearning.AI
+- Prompt Engineering - Vanderbilt University
+- Generative AI - Coursera
+- Software Engineering - Coursera
+
+---
+
+## 🛠️ Skills
+
+**Programming Languages:**  
+C++, Java, Python, CSS, HTML, React, React Native
+
+**Libraries:**  
+Keras, TensorFlow, HuggingFace, LangChain, LlamaIndex, PyTorch, OpenCV, Matplotlib, Seaborn, Plotly
+
+**Tools:**  
+VSCode, Google Colab, Kaggle, Jupyter Notebook
+
+---
 
 ## 🚀 Projects
 
-- **[Project 1 Name](https://github.com/Zaheer-10/Project1):** Brief description of the project.
-- **[Project 2 Name](https://github.com/Zaheer-10/Project2):** Brief description of the project.
-- **[Project 3 Name](https://github.com/Zaheer-10/Project3):** Brief description of the project.
+- **Milk Adulteration Detection and Classification Using Hyperspectral Imaging**
+- **Hyperspectral Imaging for Non-Destructive Fruit Freshness Detection**
+- **Cancer Classification Enhancement Through Deep Learning Architectures**
+- **Zomato Data Analysis with ML and DL Modeling**
+- **Integrated RAG System Using Generative AI**
+- **Advanced NLP NextWord Predicter**
 
-## 📫 Connect with Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zaheer-10/)
-[![Twitter](https://img.shields.io/twitter/follow/twitter_handle?style=social)](https://twitter.com/twitter_handle)
-[![GitHub](https://img.shields.io/github/followers/Zaheer-10?style=social)](https://github.com/Zaheer-10)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://yourwebsite.com)
+## 📫 Contact
 
-## 📚 Blog Posts
+Feel free to reach out for collaboration or inquiries:
 
-- **[Blog Post 1](https://yourwebsite.com/blog-post-1):** Brief description or intro to the blog post.
-- **[Blog Post 2](https://yourwebsite.com/blog-post-2):** Brief description or intro to the blog post.
+📧 [zaheerudin7887@gmail.com](mailto:zaheerudin7887@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/zaheer-ul-deen-650492061)  
+🔗 [GitHub](https://github.com/ZaheerUDeen7887)
 
-## 💬 Languages
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+## 🌱 Personal Interests
 
-## 📄 License
+Beyond work, I have a passion for exploring new technologies, solving complex problems, and contributing to open-source projects. My curiosity drives me to constantly learn and improve, staying at the forefront of AI advancements.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+---
+
+## 🏆 GitHub Stats
+
+![Zaheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaheerUDeen7887&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaheerUDeen7887&layout=compact&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ZaheerUDeen7887&theme=onedark&no-frame=true&margin-w=15)
+
