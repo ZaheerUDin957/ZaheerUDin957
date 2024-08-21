@@ -118,8 +118,8 @@ Beyond work, I have a passion for exploring new technologies, solving complex pr
 
 ## 🏆 GitHub Stats
 
-![Zaheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaheerUDeen7887&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaheerUDeen7887&layout=compact&theme=radical)
+![Zaheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaheerUDin957&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaheerUDin957&layout=compact&theme=radical)
 
 ---
 
