@@ -1,5 +1,7 @@
 <h1 align="center">Hi there, I'm Zaheer UL Deen Babar 🌍</h1>
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <p align="center">
   <table>
     <tr>
@@ -58,7 +60,6 @@
 [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://yourwebsite.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zaheer-10/)
 [![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://yourwebsite.com/resume.pdf)
-[![Twitter Follow](https://img.shields.io/twitter/follow/twitter_handle?style=social)](https://twitter.com/twitter_handle)
 
 ## 👨‍💻 About Me
 
