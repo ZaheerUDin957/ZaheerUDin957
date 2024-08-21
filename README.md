@@ -32,6 +32,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaheerUDin957&theme=radical" alt="Zaheer's GitHub Activity Graph" />
 </p>
 
+## 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaheerUDin957&bg_color=1a1b27&color=ffffff&line=ff7f50&point=ffffff&area=true&hide_border=true" alt="Zaheer's GitHub Activity Graph" />
+</p>
 
 
 
