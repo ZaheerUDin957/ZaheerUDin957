@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Zaheer UL Deen Babar 🌍</h1>
 
-<p align="center">
+<p >
   <img src="https://komarev.com/ghpvc/?username=ZaheerUDin957&color=blueviolet&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/ZaheerUDin957?label=Followers&style=flat-square&color=green" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/ZaheerUDin957?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
