@@ -72,9 +72,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaheerUDin957&bg_color=1a1b27&color=ffffff&line=ff7f50&point=ffffff&area=true&hide_border=true" alt="Zaheer's GitHub Activity Graph" />
 </p>
 
-[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zaheer-10/)
-[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://yourwebsite.com/resume.pdf)
 
 ## 👨‍💻 About Me
 
@@ -97,15 +94,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Zaheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zaheer-10&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaheer-10&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Zaheer-10&theme=onedark&no-frame=true&margin-w=15)
 
 ## 🚀 Projects
 
