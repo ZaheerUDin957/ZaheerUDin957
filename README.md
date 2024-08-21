@@ -5,8 +5,8 @@
 **Aspiring ML Engineer | Generative AI Practitioner | NLP | Advanced Image Processing**
 
 [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://dazzling-starship-9657d2.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zaheer-10/)
-[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://dazzling-starship-9657d2.netlify.app/resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zaheer-ul-deen-650490261/)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://dazzling-starship-9657d2.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=flat&logo=github)](https://github.com/ZaheerUDin957)
 
 📍 **Johar Town, Lahore, Punjab, Pakistan**  
