@@ -5,12 +5,6 @@
 <p align="center">
   <table>
     <tr>
-      <td><img src="https://komarev.com/ghpvc/?username=ZaheerUDin957&color=blueviolet&style=flat-square" alt="Profile views" /></td>
-      <td><img src="https://img.shields.io/github/followers/ZaheerUDin957?label=Followers&style=flat-square&color=green" alt="GitHub Followers" /></td>
-      <td><img src="https://img.shields.io/github/stars/ZaheerUDin957?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" /></td>
-      <td><img src="https://custom-icon-badges.herokuapp.com/badge/Contributions-ZaheerUDin957-green?logo=github" alt="Contributions" /></td>
-    </tr>
-    <tr>
       <td><img src="https://img.shields.io/badge/Public%20Repos-ZaheerUDin957-blue?logo=github" alt="Public Repos" /></td>
       <td><img src="https://img.shields.io/badge/Gists-ZaheerUDin957-orange?logo=github" alt="Gists" /></td>
       <td><img src="https://img.shields.io/badge/Commits%20This%20Year-ZaheerUDin957-green?logo=github" alt="Commits" /></td>
@@ -25,6 +19,12 @@
           <img src="https://img.shields.io/badge/Sponsor-ZaheerUDin957-brightgreen?logo=github-sponsors" alt="Sponsor" />
         </a>
       </td>
+    </tr>
+        <tr>
+      <td><img src="https://komarev.com/ghpvc/?username=ZaheerUDin957&color=blueviolet&style=flat-square" alt="Profile views" /></td>
+      <td><img src="https://img.shields.io/github/followers/ZaheerUDin957?label=Followers&style=flat-square&color=green" alt="GitHub Followers" /></td>
+      <td><img src="https://img.shields.io/github/stars/ZaheerUDin957?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" /></td>
+      <td><img src="https://custom-icon-badges.herokuapp.com/badge/Contributions-ZaheerUDin957-green?logo=github" alt="Contributions" /></td>
     </tr>
   </table>
 </p>
