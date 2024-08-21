@@ -19,10 +19,17 @@
 
 
 <h1 align="center">GitHub Stats</h1>
-<p >
-  <img src="https://github-readme-stats.vercel.app/api?username=ZaheerUDin957&show_icons=true&theme=radical" alt="Zaheer's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaheerUDin957&theme=radical" alt="Zaheer's GitHub Streak" />
+# 📊 GitHub Stats
+
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=ZaheerUDin957&show_icons=true&theme=radical" alt="Zaheer's GitHub Stats" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaheerUDin957&theme=radical" alt="Zaheer's GitHub Streak" /></td>
+    </tr>
+  </table>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaheerUDin957&layout=compact&theme=radical" alt="Zaheer's Top Languages" />
