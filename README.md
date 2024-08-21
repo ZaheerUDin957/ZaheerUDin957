@@ -34,7 +34,6 @@
 ![Commits](https://img.shields.io/badge/Commits%20This%20Year-ZaheerUDin957-green?logo=github)
 ![Pull Requests](https://img.shields.io/badge/Pull%20Requests-ZaheerUDin957-red?logo=github)
 ![Issues Opened](https://img.shields.io/badge/Issues%20Opened-ZaheerUDin957-yellow?logo=github)
-(https://github.com/ZaheerUDin957/your-repository-name)
 ![Forks](https://img.shields.io/badge/Forks-ZaheerUDin957-lightgrey?logo=github)
 [![Sponsor](https://img.shields.io/badge/Sponsor-ZaheerUDin957-brightgreen?logo=github-sponsors)](https://github.com/sponsors/ZaheerUDin957)
 ![Custom Badge](https://img.shields.io/badge/Custom-Badge-red)
