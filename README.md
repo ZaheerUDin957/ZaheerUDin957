@@ -55,30 +55,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaheerUDin957&bg_color=1a1b27&color=ffffff&line=ff7f50&point=ffffff&area=true&hide_border=true" alt="Zaheer's GitHub Activity Graph" />
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=Zaheer-10&color=blue)
-[![Twitter Follow](https://img.shields.io/twitter/follow/twitter_handle?style=social)](https://twitter.com/twitter_handle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zaheer-10/)
-[![GitHub followers](https://img.shields.io/github/followers/Zaheer-10?style=social)](https://github.com/Zaheer-10)
 [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zaheer-10/)
 [![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://yourwebsite.com/resume.pdf)
+[![Twitter Follow](https://img.shields.io/twitter/follow/twitter_handle?style=social)](https://twitter.com/twitter_handle)
 
 ## 👨‍💻 About Me
 
