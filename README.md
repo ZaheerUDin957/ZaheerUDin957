@@ -1,5 +1,26 @@
 <h1 align="center">Zaheer UL Deen Babar 🌍</h1>
 
+# Zaheer UL Deen Babar
+
+**Aspiring ML Engineer | Generative AI Practitioner | NLP | Advanced Image Processing**
+
+[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://dazzling-starship-9657d2.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zaheer-10/)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://dazzling-starship-9657d2.netlify.app/resume.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=flat&logo=github)](https://github.com/ZaheerUDin957)
+
+📍 **Johar Town, Lahore, Punjab, Pakistan**  
+📞 **+923466420585**  
+📧 **zaheerudin7887@gmail.com**
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/zaheer-ul-deen-650490261/)
+- [GitHub](https://github.com/ZaheerUDin957)
+
+## 🌐 Portfolio
+- [Portfolio Website](https://dazzling-starship-9657d2.netlify.app/)
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
