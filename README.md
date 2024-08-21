@@ -22,12 +22,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZaheerUDin957&show_icons=true&theme=radical" alt="Zaheer's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaheerUDin957&theme=radical" alt="Zaheer's GitHub Streak" />
-</p>
-
-## 🚀 Languages Used
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaheerUDin957&layout=compact&theme=radical" alt="Zaheer's Top Languages" />
 </p>
+
+
 
 ## 🏆 GitHub Trophies
 <p align="center">
