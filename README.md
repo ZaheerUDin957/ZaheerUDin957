@@ -28,18 +28,19 @@
 
 
 
-![GitHub Contributions](https://custom-icon-badges.herokuapp.com/badge/Contributions-{{ ZaheerUDin957 }}-green?logo=github)
-![Public Repositories](https://img.shields.io/badge/Public%20Repos-{{ ZaheerUDin957 }}-blue?logo=github)
-![Gists](https://img.shields.io/badge/Gists-{{ ZaheerUDin957 }}-orange?logo=github)
-![Commits](https://img.shields.io/badge/Commits%20This%20Year-{{ ZaheerUDin957 }}-green?logo=github)
-![Pull Requests](https://img.shields.io/badge/Pull%20Requests-{{ ZaheerUDin957 }}-red?logo=github)
-![Issues Opened](https://img.shields.io/badge/Issues%20Opened-{{ ZaheerUDin957 }}-yellow?logo=github)
-[![Most Starred Repositories](https://github-readme-stats.vercel.app/api/pin/?username=ZaheerUDin957&repo=repository-name&theme=radical)](https://github.com/ZaheerUDin957/repository-name)
-![Forks](https://img.shields.io/badge/Forks-{{ ZaheerUDin957 }}-lightgrey?logo=github)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ZaheerUDin957.ZaheerUDin957)
-[![Sponsor](https://img.shields.io/badge/Sponsor-{{ ZaheerUDin957 }}-brightgreen?logo=github-sponsors)](https://github.com/sponsors/ZaheerUDin957)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZaheerUDin957&repo=blog&theme=radical)](https://github.com/ZaheerUDin957/blog)
+![GitHub Contributions](https://custom-icon-badges.herokuapp.com/badge/Contributions-ZaheerUDin957-green?logo=github)
+![Public Repositories](https://img.shields.io/badge/Public%20Repos-ZaheerUDin957-blue?logo=github)
+![Gists](https://img.shields.io/badge/Gists-ZaheerUDin957-orange?logo=github)
+![Commits](https://img.shields.io/badge/Commits%20This%20Year-ZaheerUDin957-green?logo=github)
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-ZaheerUDin957-red?logo=github)
+![Issues Opened](https://img.shields.io/badge/Issues%20Opened-ZaheerUDin957-yellow?logo=github)
+[![Most Starred Repositories](https://github-readme-stats.vercel.app/api/pin/?username=ZaheerUDin957&repo=your-repository-name&theme=radical)](https://github.com/ZaheerUDin957/your-repository-name)
+![Forks](https://img.shields.io/badge/Forks-ZaheerUDin957-lightgrey?logo=github)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ZaheerUDin957)
+[![Sponsor](https://img.shields.io/badge/Sponsor-ZaheerUDin957-brightgreen?logo=github-sponsors)](https://github.com/sponsors/ZaheerUDin957)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZaheerUDin957&repo=your-blog-repository-name&theme=radical)](https://github.com/ZaheerUDin957/your-blog-repository-name)
 ![Custom Badge](https://img.shields.io/badge/Custom-Badge-red)
+
 
 
 
