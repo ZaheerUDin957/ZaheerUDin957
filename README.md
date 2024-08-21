@@ -1,21 +1,34 @@
 <h1 align="center">Hi, I'm Zaheer UL Deen Babar 🌍</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZaheerUDin957&color=blueviolet&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ZaheerUDin957?label=Followers&style=flat-square&color=green" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/ZaheerUDin957?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
-  <img src="https://custom-icon-badges.herokuapp.com/badge/Contributions-ZaheerUDin957-green?logo=github" alt="GitHub Contributions" />
-  <img src="https://img.shields.io/badge/Public%20Repos-ZaheerUDin957-blue?logo=github" alt="Public Repositories" />
-  <img src="https://img.shields.io/badge/Gists-ZaheerUDin957-orange?logo=github" alt="Gists" />
-  <img src="https://img.shields.io/badge/Commits%20This%20Year-ZaheerUDin957-green?logo=github" alt="Commits This Year" />
-  <img src="https://img.shields.io/badge/Pull%20Requests-ZaheerUDin957-red?logo=github" alt="Pull Requests" />
-  <img src="https://img.shields.io/badge/Issues%20Opened-ZaheerUDin957-yellow?logo=github" alt="Issues Opened" />
-  <img src="https://img.shields.io/badge/Forks-ZaheerUDin957-lightgrey?logo=github" alt="Forks" />
-  <img src="https://img.shields.io/badge/Custom-Badge-red" alt="Custom Badge" />
-  <a href="https://github.com/sponsors/ZaheerUDin957">
-    <img src="https://img.shields.io/badge/Sponsor-ZaheerUDin957-brightgreen?logo=github-sponsors" alt="Sponsor" />
-  </a>
+  <table>
+    <tr>
+      <td><img src="https://komarev.com/ghpvc/?username=ZaheerUDin957&color=blueviolet&style=flat-square" alt="Profile views" /></td>
+      <td><img src="https://img.shields.io/github/followers/ZaheerUDin957?label=Followers&style=flat-square&color=green" alt="GitHub Followers" /></td>
+      <td><img src="https://img.shields.io/github/stars/ZaheerUDin957?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://custom-icon-badges.herokuapp.com/badge/Contributions-ZaheerUDin957-green?logo=github" alt="GitHub Contributions" /></td>
+      <td><img src="https://img.shields.io/badge/Public%20Repos-ZaheerUDin957-blue?logo=github" alt="Public Repositories" /></td>
+      <td><img src="https://img.shields.io/badge/Gists-ZaheerUDin957-orange?logo=github" alt="Gists" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Commits%20This%20Year-ZaheerUDin957-green?logo=github" alt="Commits This Year" /></td>
+      <td><img src="https://img.shields.io/badge/Pull%20Requests-ZaheerUDin957-red?logo=github" alt="Pull Requests" /></td>
+      <td><img src="https://img.shields.io/badge/Issues%20Opened-ZaheerUDin957-yellow?logo=github" alt="Issues Opened" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Forks-ZaheerUDin957-lightgrey?logo=github" alt="Forks" /></td>
+      <td><img src="https://img.shields.io/badge/Custom-Badge-red" alt="Custom Badge" /></td>
+      <td>
+        <a href="https://github.com/sponsors/ZaheerUDin957">
+          <img src="https://img.shields.io/badge/Sponsor-ZaheerUDin957-brightgreen?logo=github-sponsors" alt="Sponsor" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 
 <h1 align="center">GitHub Stats</h1>
