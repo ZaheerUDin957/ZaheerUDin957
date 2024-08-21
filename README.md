@@ -1,12 +1,4 @@
 <h1 align="center">Zaheer UL Deen Babar 🌍</h1>
-Zaheer UL Deen Babar
-Aspiring ML Engineer | Generative AI Practitioner | NLP | Advanced Image Processing
-
-📍 Johar Town, Lahore, Punjab, Pakistan
-📞 +923466420585
-📧 zaheerudin7887@gmail.com
-🔗 LinkedIn
-🔗 GitHub
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
