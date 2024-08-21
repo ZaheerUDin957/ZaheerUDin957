@@ -27,6 +27,12 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ZaheerUDin957&theme=radical" alt="Zaheer's GitHub Activity Graph" />
 </p>
 
+## 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaheerUDin957&theme=radical" alt="Zaheer's GitHub Activity Graph" />
+</p>
+
+
 
 
 
