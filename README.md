@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Zaheer UL Deen Babar 🌍</h1>
 
-# 📊 GitHub Stats
-
 <p align="center">
   <table>
     <tr>
@@ -32,8 +30,7 @@
 
 
 
-<h1 align="center">GitHub Stats</h1>
-# 📊 GitHub Stats
+<h1 align="center"># 📊 GitHub Stats</h1>
 
 <p align="center">
   <table>
