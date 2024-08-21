@@ -1,3 +1,42 @@
+<h1 align="center">Hi, I'm Zaheer U Din 👋</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZaheerUDin957&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ZaheerUDin957?label=Followers&style=flat-square&color=green" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/ZaheerUDin957?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZaheerUDin957&show_icons=true&theme=radical" alt="Zaheer's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaheerUDin957&theme=radical" alt="Zaheer's GitHub Streak" />
+</p>
+
+## 🚀 Languages Used
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaheerUDin957&layout=compact&theme=radical" alt="Zaheer's Top Languages" />
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ZaheerUDin957&theme=radical" alt="Zaheer's GitHub Trophies" />
+</p>
+
+## 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ZaheerUDin957&theme=radical" alt="Zaheer's GitHub Activity Graph" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
 # Hi there, I'm Zaheer UL Deen Babar 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Zaheer-10&color=blue)
