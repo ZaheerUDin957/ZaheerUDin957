@@ -22,7 +22,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZaheerUDin957&show_icons=true&theme=radical" alt="Zaheer's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaheerUDin957&theme=radical" alt="Zaheer's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaheerUDin957&layout=compact&theme=radical" alt="Zaheer's Top Languages" />
 </p>
 
 <p align="center">
