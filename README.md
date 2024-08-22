@@ -1,6 +1,6 @@
 <h1 align="center">Zaheer UL Deen Babar 🌍</h1>
 
-**Aspiring ML Engineer | Generative AI Practitioner | NLP | Advanced Image Processing**
+**Machine Learning Engineer | Software Engineer | Generative AI Practitioner | AI-ML, NLP, LLM | Python | Data Science, Analysis, and Visualizations | Deep Learning | Computer Vision | Image Processing | Hyperspectral Imaging | Medical Imaging**
 
 [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://dazzling-starship-9657d2.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zaheer-ul-deen-650490261/)
@@ -121,9 +121,7 @@ I possess strong technical skills and hands-on experience with the latest tools 
 [![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-333333?style=flat&logo=language&logoColor=white)](https://stablediffusionweb.com/)
 
 ### 🚀 **Development & Deployment:**
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
