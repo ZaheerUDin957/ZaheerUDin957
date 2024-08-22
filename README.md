@@ -87,49 +87,48 @@ I possess strong technical skills and hands-on experience with the latest tools 
 ## 🛠️ Skills & Tools
 
 ### 🖥️ **Programming Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) [Python](https://www.python.org/)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) [C++](https://isocpp.org/)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) [Java](https://www.java.com/)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) [React](https://reactjs.org/)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=white) [React Native](https://reactnative.dev/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=white)](https://reactnative.dev/)
 
 ### 📊 **Data Science & Machine Learning:**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) [TensorFlow](https://www.tensorflow.org/)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) [PyTorch](https://pytorch.org/)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) [Scikit-Learn](https://scikit-learn.org/)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) [Keras](https://keras.io/)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-000000?style=flat&logo=huggingface&logoColor=white) [Hugging Face](https://huggingface.co/)
-![LangChain](https://img.shields.io/badge/LangChain-FF6F00?style=flat&logo=language&logoColor=white) [LangChain](https://www.langchain.com/)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4F7C14?style=flat&logo=llama&logoColor=white) [LlamaIndex](https://www.llamaindex.com/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-000000?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/)
+[![LangChain](https://img.shields.io/badge/LangChain-FF6F00?style=flat&logo=language&logoColor=white)](https://www.langchain.com/)
+[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4F7C14?style=flat&logo=llama&logoColor=white)](https://www.llamaindex.com/)
 
 ### 📈 **Data Visualization:**
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white) [Matplotlib](https://matplotlib.org/)
-![Seaborn](https://img.shields.io/badge/Seaborn-9C3D7F?style=flat&logo=seaborn&logoColor=white) [Seaborn](https://seaborn.pydata.org/)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F6F?style=flat&logo=plotly&logoColor=white) [Plotly](https://plotly.com/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-9C3D7F?style=flat&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F6F?style=flat&logo=plotly&logoColor=white)](https://plotly.com/)
 
 ### 🖼️ **Computer Vision & Image Processing:**
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) [OpenCV](https://opencv.org/)
-![Pillow](https://img.shields.io/badge/Pillow-FFB0B0?style=flat&logo=python&logoColor=white) [Pillow](https://python-pillow.org/)
-![scikit-image](https://img.shields.io/badge/scikit--image-8AB4F8?style=flat&logo=python&logoColor=white) [scikit-image](https://scikit-image.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Pillow](https://img.shields.io/badge/Pillow-FFB0B0?style=flat&logo=python&logoColor=white)](https://python-pillow.org/)
+[![scikit-image](https://img.shields.io/badge/scikit--image-8AB4F8?style=flat&logo=python&logoColor=white)](https://scikit-image.org/)
 
 ### 🤖 **Generative AI & Advanced NLP:**
-![GPT](https://img.shields.io/badge/GPT-00B2A9?style=flat&logo=openai&logoColor=white) [OpenAI GPT](https://openai.com/gpt)
-![BERT](https://img.shields.io/badge/BERT-FF0000?style=flat&logo=bert&logoColor=white) [BERT](https://github.com/google-research/bert)
-![RAG](https://img.shields.io/badge/RAG-6D7D8B?style=flat&logo=language&logoColor=white) [RAG](https://huggingface.co/docs/transformers/model_doc/rag)
-![T5](https://img.shields.io/badge/T5-9B59B6?style=flat&logo=language&logoColor=white) [T5](https://huggingface.co/docs/transformers/model_doc/t5)
-![DALL-E](https://img.shields.io/badge/DALL-E-FF8C00?style=flat&logo=language&logoColor=white) [DALL-E](https://openai.com/dall-e-2)
-![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-333333?style=flat&logo=language&logoColor=white) [Stable Diffusion](https://stablediffusionweb.com/)
+[![GPT](https://img.shields.io/badge/GPT-00B2A9?style=flat&logo=openai&logoColor=white)](https://openai.com/gpt)
+[![BERT](https://img.shields.io/badge/BERT-FF0000?style=flat&logo=bert&logoColor=white)](https://github.com/google-research/bert)
+[![RAG](https://img.shields.io/badge/RAG-6D7D8B?style=flat&logo=language&logoColor=white)](https://huggingface.co/docs/transformers/model_doc/rag)
+[![T5](https://img.shields.io/badge/T5-9B59B6?style=flat&logo=language&logoColor=white)](https://huggingface.co/docs/transformers/model_doc/t5)
+[![DALL-E](https://img.shields.io/badge/DALL-E-FF8C00?style=flat&logo=language&logoColor=white)](https://openai.com/dall-e-2)
+[![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-333333?style=flat&logo=language&logoColor=white)](https://stablediffusionweb.com/)
 
 ### 🚀 **Development & Deployment:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) [Docker](https://www.docker.com/)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) [Git](https://git-scm.com/)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) [GitHub](https://github.com/)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) [Streamlit](https://streamlit.io/)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) [Flask](https://flask.palletsprojects.com/)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) [FastAPI](https://fastapi.tiangolo.com/)
-
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
 
 ## 🚀 Projects
