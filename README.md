@@ -73,14 +73,14 @@
 </p>
 
 
-## 👨‍💻 About Me
+## 👨‍💼 Professional Background
 
-- 🔭 I’m currently working on **[Your Current Project](https://github.com/Zaheer-10/YourCurrentProject)**
-- 🌱 I’m currently learning **Advanced NLP, Generative AI, and Cybersecurity**
-- 👯 I’m looking to collaborate on **AI/ML projects**
-- 💬 Ask me about **Data Science, Machine Learning, NLP, and AI**
-- 📫 How to reach me: [Email](mailto:zaheer@example.com)
-- ⚡ Fun fact: I love exploring new technologies and solving complex problems.
+As a **Machine Learning Engineer** with extensive experience in **AI**, **Data Science**, and **Software Development**, I have honed my expertise through:
+
+- 🧠 **4 months of intensive AI training** ![AI](https://img.shields.io/badge/-AI-brightgreen)
+- 💻 **Over 6 months of internships across various software development firms** ![Internships](https://img.shields.io/badge/-Internships-blue)
+- 🎓 **More than a year of teaching and research in advanced image processing and artificial intelligence** at a leading academic institute![Teaching & Research](https://img.shields.io/badge/-Teaching%20&%20Research-orange)
+
 
 ## 🛠️ Skills & Tools
 
