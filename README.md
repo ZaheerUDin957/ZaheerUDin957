@@ -81,7 +81,8 @@ As a **Machine Learning Engineer** with extensive experience in **AI**, **data s
 - 💻 **Over 6 months of internships across various software development firms**
 - 🎓 **More than a year of teaching and research in advanced image processing and artificial intelligence** at a leading academic institute
 
-
+# 🌐 Technical Proficiency
+I possess strong technical skills and hands-on experience with the latest tools in AI, data science, and data visualization. My ability to communicate complex concepts clearly and my expertise in SEO and professional resume creation enables me to deliver value-driven solutions that meet business and academic needs.
 
 ## 🛠️ Skills & Tools
 
