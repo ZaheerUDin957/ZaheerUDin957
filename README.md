@@ -127,33 +127,3 @@ I possess strong technical skills and hands-on experience with the latest tools 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-
-
-## 🚀 Projects
-
-- **[Project 1 Name](https://github.com/Zaheer-10/Project1):** Brief description of the project.
-- **[Project 2 Name](https://github.com/Zaheer-10/Project2):** Brief description of the project.
-- **[Project 3 Name](https://github.com/Zaheer-10/Project3):** Brief description of the project.
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zaheer-10/)
-[![Twitter](https://img.shields.io/twitter/follow/twitter_handle?style=social)](https://twitter.com/twitter_handle)
-[![GitHub](https://img.shields.io/github/followers/Zaheer-10?style=social)](https://github.com/Zaheer-10)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://yourwebsite.com)
-
-## 📚 Blog Posts
-
-- **[Blog Post 1](https://yourwebsite.com/blog-post-1):** Brief description or intro to the blog post.
-- **[Blog Post 2](https://yourwebsite.com/blog-post-2):** Brief description or intro to the blog post.
-
-## 💬 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
