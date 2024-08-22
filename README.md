@@ -73,13 +73,14 @@
 </p>
 
 
-## 👨‍💼 Professional Background
+# 👨‍💼 Professional Background
 
-As a **Machine Learning Engineer** with extensive experience in **AI**, **Data Science**, and **Software Development**, I have honed my expertise through:
+As a **Machine Learning Engineer** with extensive experience in **AI**, **data science**, and **software development**, I have honed my expertise through:
 
-- 🧠 **4 months of intensive AI training** ![AI](https://img.shields.io/badge/-AI-brightgreen)
-- 💻 **Over 6 months of internships across various software development firms** ![Internships](https://img.shields.io/badge/-Internships-blue)
-- 🎓 **More than a year of teaching and research in advanced image processing and artificial intelligence** at a leading academic institute![Teaching & Research](https://img.shields.io/badge/-Teaching%20&%20Research-orange)
+- 🧠 **4 months of intensive AI training**
+- 💻 **Over 6 months of internships across various software development firms**
+- 🎓 **More than a year of teaching and research in advanced image processing and artificial intelligence** at a leading academic institute
+
 
 
 ## 🛠️ Skills & Tools
