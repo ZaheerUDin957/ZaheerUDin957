@@ -1,4 +1,4 @@
-<h1 align="center">Zaheer UL Deen Babar 🌍</h1>
+<h1 align="center">Zaheer UL Deen</h1>
 
 **Machine Learning Engineer | Software Engineer | Generative AI Practitioner | AI-ML, NLP, LLM | Python | Data Science, Analysis, and Visualizations | Deep Learning | Computer Vision | Image Processing | Hyperspectral Imaging | Medical Imaging**
 
